@@ -39,10 +39,10 @@ To use the projects in this repository, follow these steps:
    git clone https://github.com/ahmedhanyanwar/MATLAB-Projects.git
 2. **Navigate to the desired project directory**:
    ```bash
-   cd MATLAB-Projects/Analog-Communication/Project1  # Adjust the path as needed
+   cd MATLAB-Projects/Analog-Communication/Project_name  # Adjust the path as needed
 3. **Open MATLAB and run the script**:
    ```matlab
-   run('code.m')
+   run('code_name.m')
 4. **Review the README in each project folder for specific instructions and details**.
 
    
