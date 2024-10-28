@@ -60,9 +60,9 @@ This part investigates the effectiveness of various coding techniques in combati
 2. Download the project files and place them in a directory.
 3. Open MATLAB and navigate to the project directory.
 4. Run the scripts in the following order:
-   - Part 1
-   - Part 2
-   - Part 3
+   - Part1 ISI band-limited channels.
+   - Part2 ISI multi-path channels.
+   - Part3 Comparisons of coding techniques.
 
 ## Requirements
 - MATLAB R2021 or later
